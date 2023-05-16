@@ -8,4 +8,4 @@ Soon-to-be a Turing Scholar at the University of Texas at Austin.
 
 # Contact
 My personal website is <https://migopp.xyz>.
-You can reach me at michael.goppert@utexas.edu, for now.
+You can reach me at goppert@utexas.edu, for now.
