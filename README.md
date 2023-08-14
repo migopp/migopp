@@ -1,11 +1,9 @@
 # About Me
 
-I go by a bunch of stuff—most people just call me Michael.
+Howdy! I'm Michael Goppert, a first-year Turing Scholar studying Computer Science and Mathematics at The University of Texas at Austin.
 
-I'm a first-year college student from North Texas—born and raised. I'm a—fairly opinionated—Mac user, and, outside of academics, I like cats, the number 28, and lofi hip-hop, among lots of other random things. During my free time, I enjoy card games with friends, video games (of which, Bioshock is my all-time favorite), and cs + math content.
-
-I'm a Turing Scholar at the University of Texas at Austin.
+![cat-work](https://github.com/migopp/migopp/assets/128272843/ef6d4959-e9df-4d43-bdb0-5fee09ef50a4)
 
 # Contact
 My personal website is <https://migopp.xyz>.
-You can reach me at goppert@utexas.edu, for now.
+You can reach me at goppert@utexas.edu.
