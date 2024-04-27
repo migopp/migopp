@@ -6,4 +6,4 @@ Howdy! I'm Michael Goppert, a first-year Turing Scholar studying Computer Scienc
 
 # Contact
 My personal website is ~~<https://migopp.xyz>~~ not up right now.
-You can reach me at goppert@utexas.edu.
+You can reach me at goppert@cs.utexas.edu.
