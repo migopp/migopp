@@ -1,9 +1,12 @@
-# About Me
+### Howdy!
 
-Howdy! I'm Michael Goppert, a Turing Scholar studying Computer Science and Mathematics at The University of Texas at Austin.
+I'm Goppert, a Turing Scholar and student of Computer Science, Mathematics, and 日本語 at The University of Texas at Austin.
+Right now I'm most interested in systems and web programming.
 
-![cat-work](https://github.com/migopp/migopp/assets/128272843/ef6d4959-e9df-4d43-bdb0-5fee09ef50a4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migopp&layout=compact)
+![cat](https://github.com/user-attachments/assets/c5f6a940-f0c1-4f51-89ed-4f48e49fa7a7)
 
-# Contact
+### Contact
+
 My personal website is <https://migopp.dev>.
 You can reach me at goppert@cs.utexas.edu.
